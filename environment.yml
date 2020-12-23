@@ -4,5 +4,6 @@ channels:
 dependencies:
   - python
   - wordcloud
-  - import_ipynb
-  
+  - pip
+  - pip:
+    - import_ipynb
